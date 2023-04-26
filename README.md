@@ -1,4 +1,4 @@
-## 김정주\_T5052 Trials -- Lv.1 Image Classification Project
+## 김정주(T5052) Trials -- Lv.1 Image Classification Project
 
 1. 각자 모델 학습
 2. 각각의 예측한 Label별 확률값을 포함한 파일들을 취합
