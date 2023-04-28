@@ -1,0 +1,77 @@
+classes:
+  0:
+    - Mask
+    - Male
+    - under 30
+  1:
+    - Mask
+    - Male
+    - between 30 and 57
+  2:
+    - Mask
+    - Male
+    - over 57
+  3:
+    - Mask
+    - Female
+    - under 30
+  4:
+    - Mask
+    - Female
+    - between 30 and 57
+  5:
+    - Mask
+    - Female
+    - over 57
+  6:
+    - Incorrect
+    - Male
+    - under 30
+  7:
+    - Incorrect
+    - Male
+    - between 30 and 57
+  8:
+    - Incorrect
+    - Male
+    - over 57
+  9:
+    - Incorrect
+    - Female
+    - under 30
+  10:
+    - Incorrect
+    - Female
+    - between 30 and 57
+  11:
+    - Incorrect
+    - Female
+    - over 57
+  12:
+    - Normal
+    - Male
+    - under 30
+  13:
+    - Normal
+    - Male
+    - between 30 and 57
+  14:
+    - Normal
+    - Male
+    - over 57
+  15:
+    - Normal
+    - Female
+    - under 30
+  16:
+    - Normal
+    - Female
+    - between 30 and 57
+  17:
+    - Normal
+    - Female
+    - over 57
+model_path1: ./model/exp/best_1fold.pth
+model_path2: ./model/exp/best_2fold.pth
+model_path3: ./model/exp/best_3fold.pth
+model_path4: ./model/exp/best_4fold.pth
